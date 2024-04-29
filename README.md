@@ -16,36 +16,6 @@ BrainwaveCurve is a website that explores the possibilities of AI chatting with 
 
 Explore the live preview of the BrainwaveCurve website: [BrainwaveCurve Live Preview](https://brainwave-a7mdmo74.vercel.app/)
 
-## GitHub Repository
-
-View the project on GitHub: [BrainwaveCurve GitHub Repository](https://github.com/a7mdmo74/brainwave)
-
-## Installation
-
-1. Clone the repository:
-
-# BrainwaveCurve
-
-## Overview
-
-BrainwaveCurve is a website that explores the possibilities of AI chatting with BrainwaveCurve, built using React.js for frontend development, Vite for fast development and build, Tailwind CSS for styling, and AI for intelligent chatting capabilities.
-
-## Features
-
-- **AI Chatting:** BrainwaveCurve utilizes AI for intelligent chatting capabilities, providing users with engaging interactions and personalized responses.
-- **React.js:** The frontend of the website is built using React.js, enabling fast and efficient development of interactive user interfaces.
-- **Vite:** Vite is used for the development server and fast builds, enhancing developer productivity and speeding up the development process.
-- **Tailwind CSS:** The website's UI is styled using Tailwind CSS, allowing for rapid prototyping and easy customization of styles.
-- **Responsive Design:** BrainwaveCurve is designed to be responsive, ensuring optimal viewing experience across various devices and screen sizes.
-
-## Live Preview
-
-Explore the live preview of the BrainwaveCurve website: [BrainwaveCurve Live Preview](https://brainwave-a7mdmo74.vercel.app/)
-
-## GitHub Repository
-
-View the project on GitHub: [BrainwaveCurve GitHub Repository](https://github.com/a7mdmo74/brainwave)
-
 ## Installation
 
 1. Clone the repository:
